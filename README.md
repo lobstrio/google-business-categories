@@ -34,6 +34,7 @@ Method, analysis and a searchable version: [Google Business Categories List](htt
 
 ## Usage
 
-Free to use. If it saved you time, a link back is appreciated.
+Free to use, commercial use included, under [CC BY 4.0](LICENSE): credit lobstr.io with a link to
+https://www.lobstr.io/blog/google-business-categories.
 
 Built by [lobstr.io](https://www.lobstr.io).
